@@ -2,8 +2,12 @@
 
 ###All the skins can be found in this website [GAMEBANANA](https://gamebanana.com)
 
-**The patter for skins will be:** CharacterNameNumber - Description
+**The pattern for skins will be:** CharacterNameNumber - Description
 
 **Exemple:** Giovanna02 - Trunks
+
+**The pattern for skills will be:** CharacterName - Description
+
+**Exemple:** LeoWhitefang - AltLight
 
 Fell free to contribute and use att will :D
